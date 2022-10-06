@@ -3,3 +3,5 @@ BirdCLEF 2022
 Identify bird calls in soundscapes
 
 https://www.kaggle.com/competitions/birdclef-2022
+
+My profile: https://www.kaggle.com/pielie
